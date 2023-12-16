@@ -1,16 +1,15 @@
-### Hi there 👋
+Hello, I'm [lilrory] 👋
+About Me
+Hey there! I'm [Your Name], a 21-year-old enthusiast passionate about programming and bringing ideas to life through code. I use my skills to find creative solutions to technical challenges and love the process of continuous learning.
 
-<!--
-**lilrory/lilrory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Technologies
+🐍 Python
+☕ JavaScript
 
-Here are some ideas to get you started:
+Contact Me
+📧 Email: galushkinrr@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Leetcode Stats](https://leetcard.jacoblin.cool/lilrory)
+
+Thanks for stopping by! 😊
+If you have any questions, suggestions, or just want to connect, feel free to reach out. I'm looking forward to interesting projects and new connections! 🚀
