@@ -1,4 +1,4 @@
-# Hello, I'm [lilrory] 👋
+# Hello, I'm lilrory 👋
 
 ## About Me
 Hey there! I'm a 21-year-old enthusiast passionate about programming and bringing ideas to life through code. I use my skills to find creative solutions to technical challenges and love the process of continuous learning.
